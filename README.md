@@ -12,7 +12,7 @@
 
 - 📫 Hit me up: **murratk@outlook.com**
 
-- ⚡ Fun fact: **I could have been a voice actor 🌱**
+- ⚡ Fun fact: **I am a good voice actor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
