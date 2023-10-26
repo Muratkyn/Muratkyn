@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muratkyn](https://github.com/Muratkyn)
+- 👨‍💻 My projects: [https://github.com/Muratkyn](https://github.com/Muratkyn)
 
 - 📫 How to reach me **murratk@outlook.com**
 
