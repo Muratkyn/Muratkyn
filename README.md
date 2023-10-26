@@ -29,9 +29,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muratkyn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muratkyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratkyn&show_icons=true&locale=en&layout=compact" alt="muratkyn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratkyn&show_icons=true&locale=en" alt="muratkyn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratkyn&" alt="muratkyn" /></p>
 
