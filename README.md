@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/murat-koyun](https://www.linkedin.com/in/murat-koyun-69129727b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat-koyun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murat-koyun-69129727b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat-koyun" height="30" width="40" /></a>
 <a href="https://fb.com/murat kyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murat kyn" height="30" width="40" /></a>
 <a href="https://instagram.com/murattikyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murattikyn" height="30" width="40" /></a>
 </p>
