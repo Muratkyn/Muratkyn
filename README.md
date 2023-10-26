@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **murratk@outlook.com**
 
-- ⚡ Fun fact **I love Vegan food 🌱**
+- ⚡ Fun fact: **I love Vegan food 🌱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
