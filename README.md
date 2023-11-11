@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Plandy App](https://plandy.me/)
 
-- 🌱 I’m currently learning **Next.js**
+- 💻 I’m currently learning **Next.js**
 
 - 👨‍💻 My projects: [https://github.com/Muratkyn](https://github.com/Muratkyn)
 
 - 📫 Hit me up: **murratk@outlook.com**
 
-- ⚡ Fun fact: **I am a good voice actor**
+- 🌱 Go vegan!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
