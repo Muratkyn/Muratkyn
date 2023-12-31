@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Plandy App](https://plandy.me/)
 
-- 💻 I’m currently learning **Next.js**
+- 💻 I’m currently learning **Redux**
 
 - 👨‍💻 My projects: [https://github.com/Muratkyn](https://github.com/Muratkyn)
 
