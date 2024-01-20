@@ -10,7 +10,7 @@
 
 - 👨‍💻 My projects: [https://github.com/Muratkyn](https://github.com/Muratkyn)
 
-- 📫 Hit me up: **murratk@outlook.com**
+- 📫 Hit me up: **muratk1845@gmail.com**
 
 - 🌱 Go vegan!
 
