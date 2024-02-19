@@ -8,7 +8,7 @@
 
 - 💻 I’m currently learning **Angular.js**
 
-- 👨‍💻 My projects: [https://github.com/Muratkyn](https://github.com/Muratkyn)
+- 👨‍💻 My website: [https://murat-dev.vercel.app/](https://murat-dev.vercel.app/)
 
 - 📫 Hit me up: **muratk1845@gmail.com**
 
