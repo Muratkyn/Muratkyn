@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Muratkyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently open to work! /* [Plandy App](https://plandy.me/) */
+- 🔭 I’m currently open to work!
 
 - 💻 I’m currently learning **Angular.js**
 
