@@ -12,8 +12,6 @@
 
 - 📫 Hit me up: **muratk1845@gmail.com**
 
-- 🌱 Go vegan!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/murat-koyun-69129727b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat-koyun-69129727b" height="30" width="40" /></a>
