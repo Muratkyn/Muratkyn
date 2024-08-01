@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working @Red Software Systems
 
-- 💻 I’m currently learning **Angular**
+- 💻 I’m currently learning **Vue**
 
 - 👨‍💻 My website: [https://murat-dev.vercel.app/](https://murat-dev.vercel.app/)
 
