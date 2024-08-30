@@ -3,11 +3,11 @@
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"> </img>
 
 
-- 🔭 I’m currently working @Red Software Systems
+- 🔭 Working @Red Software Systems
 
-- 💻 I’m currently learning **Vue**
+- 💻 Learning **Vue**
 
-- 👨‍💻 My website: [https://murat-dev.vercel.app/](https://murat-dev.vercel.app/)
+- 👨‍💻 Check: [https://murat-dev.vercel.app/](https://murat-dev.vercel.app/)
 
 - 📫 Hit me up: **muratk1845@gmail.com**
 
