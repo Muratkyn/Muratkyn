@@ -2,8 +2,6 @@
 <h3 align="center">🪐 A passionate frontend developer from Italy 🪐</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"> </img>
 
-[![](https://visitcount.itsvg.in/api?id=Muratkyn&icon=0&color=0)](https://visitcount.itsvg.in)
-
 - 🔭 I’m currently working @Red Software Systems
 
 - 💻 I’m currently learning **Vue**
