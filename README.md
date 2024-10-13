@@ -5,7 +5,7 @@
 
 - 🔭 Working @Red Software Systems
 
-- 💻 Learning **Vue**
+- 💻 Learning **AWS**
 
 - 👨‍💻 Check: [https://murat-dev.vercel.app/](https://murat-dev.vercel.app/)
 
