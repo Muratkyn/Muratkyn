@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"> </img>
 
 
-- 🔭 Working @Red Software Systems
+- 🔭 Working @Voiseed
 
 - 💻 Learning **AWS**
 
