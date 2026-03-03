@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check: [https://murat-dev.vercel.app/](https://murat-dev.vercel.app/)
 
-- 📫 Hit me up: **muratk1845@gmail.com**
+- 📫 Hit me up: **mkoyun.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
